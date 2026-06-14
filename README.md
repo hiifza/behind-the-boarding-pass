@@ -202,51 +202,17 @@ These anomalies provide additional behavioral insights.
 
 ---
 
-# ⚙️ Technical Features
+## ✨ Project Highlights
 
-### Data Processing
-
-✅ Missing Value Handling
-✅ Leak-Free Pipeline Architecture
-✅ Feature Scaling & Encoding
-✅ Automated Preprocessing
-
-### Feature Engineering
-
-✅ Passenger Group Extraction
-✅ Cabin Decomposition
-✅ Cabin Region Analysis
-✅ Age-Based Segmentation
-✅ Spending Behavior Features
-✅ Passenger Interaction Features
-✅ Behavioral Indicators
-
-### Machine Learning
-
-✅ Logistic Regression
-✅ K-Nearest Neighbors
-✅ Support Vector Machine
-✅ Decision Tree
-✅ Random Forest
-✅ AdaBoost
-✅ Gradient Boosting
-✅ LightGBM
-✅ XGBoost
-✅ CatBoost
-
-### Model Optimization
-
-✅ Optuna Hyperparameter Tuning
-✅ Stratified Cross Validation
-✅ Learning Curves
-✅ Threshold Optimization
-
-### Explainability
-
-✅ SHAP Summary Analysis
-✅ SHAP Feature Importance
-✅ SHAP Waterfall Explanations
-✅ Individual Passenger Interpretations
+| Feature | Description |
+|----------|-------------|
+| 🧠 Explainable AI | SHAP-based global and individual prediction explanations |
+| 👥 Behavioral Analytics | Passenger spending, travel group, and cabin behavior analysis |
+| 🎯 Risk Profiling | Probability-based passenger segmentation |
+| 🚨 Anomaly Detection | Detection of unusual passenger behavior patterns |
+| ⚙️ Ensemble Learning | Multiple optimized models combined for robust predictions |
+| 📈 Advanced Feature Engineering | Domain-driven passenger and expenditure features |
+| 🔍 Insight Generation | Focus on understanding patterns, not just predictions |
 
 ---
 
