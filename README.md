@@ -64,7 +64,14 @@ This project goes further and asks:
 The goal is not just prediction.
 
 The goal is understanding.
+## 📂 Dataset
 
+This project uses the **Spaceship Titanic** dataset from Kaggle, a fictional machine learning challenge involving passenger transportation outcomes following a spacetime anomaly.
+
+Dataset Source:
+https://www.kaggle.com/competitions/spaceship-titanic
+
+The dataset contains passenger demographics, cabin information, travel details, spending behavior, and transportation outcomes, providing an opportunity to explore both predictive modeling and behavioral analytics.
 ---
 
 ## 🔍 What Happens Inside This Project?
@@ -129,7 +136,22 @@ Main Contributors:
 ✓ Spending Behavior
 ✓ Travel Group Characteristics
 ```
+## 🚀 Beyond Prediction
 
+While the original dataset focuses on transportation prediction, this project extends the problem into a broader analytics and explainability framework.
+
+Additional components include:
+
+- Behavioral Analytics
+- Passenger Risk Profiling
+- Explainable AI using SHAP
+- Hyperparameter Optimization with Optuna
+- Anomaly Detection
+- Advanced Feature Engineering
+- Probability-Based Decision Analysis
+- Ensemble Learning
+
+The focus is not only on predicting outcomes but also on understanding the behavioral patterns and factors that influence them.
 ---
 
 ## 👥 Passenger Behavior Analytics
